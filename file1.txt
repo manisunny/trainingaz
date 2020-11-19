@@ -3,3 +3,4 @@ committed from git hub
 changes from feature1 branch
 changes from remote in dev
 changed from local
+changed to test conflict
