@@ -2,3 +2,4 @@ first file to demo git
 committed from git hub
 changes from feature1 branch
 changes from remote in dev
+changed to test conflict
